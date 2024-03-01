@@ -1,6 +1,6 @@
-
-
-# Harald Steinlechner
+---
+layout: default
+---
 
 - Teaching @ [Design & Implementation of a Rendering Engine @ TU Wien](https://www.cg.tuwien.ac.at/courses/RendEng/VU/2023S), [Functional Programming](https://www.technikum-wien.at/studiengaenge/master-software-engineering/), [Parallel Programming](https://www.technikum-wien.at/studiengaenge/master-software-engineering/).
 - IT Consultant & Software-Development: High-Performance Graphics, GPU Programming, Cloud, Algorithms.
