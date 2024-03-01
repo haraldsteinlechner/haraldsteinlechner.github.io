@@ -3,7 +3,7 @@ layout: default
 ---
 
 Activities: 
-- IT Consultant & Software-Development: High-Performance Graphics, GPU Programming, Cloud, Algorithms.
+- IT Consultant, System and Software-Development: High-Performance Graphics, GPU Programming, Cloud, Algorithms.
 - Teaching @ [Design & Implementation of a Rendering Engine @ TU Wien](https://www.cg.tuwien.ac.at/courses/RendEng/VU/2023S), [Functional Programming, Parallel Programming, Visual Computing & Neural Rendering @ FH Technikum Wien](https://www.technikum-wien.at/studiengaenge/master-software-engineering/).
 - Tailormade Programming Courses 
 - Co-Founder @ [Aardworx](https://www.aardworx.at)
