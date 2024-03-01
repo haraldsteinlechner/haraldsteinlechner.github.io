@@ -39,18 +39,10 @@ Most systems face concurrent programming challenge. I show how to tackle them us
 In my parallel programming we discuss parallel programming patterns with focus on usability, abstraction
 and performance characteristics.
 
-# Impressum
+#### Impressum
 
-Harald Steinlechner
-
-1210 Wien
-
-Scheffelstraße 7/10/10 | Austria
-
-Kontakt: haraldsteinlechner@outlook.de
+Harald Steinlechner, 1210 Wien, Scheffelstraße 7/10/10 | Austria, Kontakt: haraldsteinlechner@outlook.de
 
 Dienstleistungen in der automatischen Datenverarbeitung und Informationstechnik
-
 Rechtsform: Einzelunternehmen, Umsatzsteuerbefreit.
-
 Kammerzugehörigkeit: Wirtschaftskammer Wien
