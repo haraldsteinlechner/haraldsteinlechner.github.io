@@ -33,7 +33,7 @@ The basis is:
  - In this lecture we show how large scale systems can be designed functionally. We show functional UI systems and highlight design considerations for modern functional style systems.
 
 
-## Concurrency & Practical Parallel Programming Courses
+##### Concurrency & Practical Parallel Programming Courses
 
 Most systems face concurrent programming challenge. I show how to tackle them using simple patterns.
 In my parallel programming we discuss parallel programming patterns with focus on usability, abstraction
@@ -42,9 +42,15 @@ and performance characteristics.
 # Impressum
 
 Harald Steinlechner
+
 1210 Wien
+
 Scheffelstraße 7/10/10 | Austria
+
 Kontakt: haraldsteinlechner@outlook.de
+
 Dienstleistungen in der automatischen Datenverarbeitung und Informationstechnik
+
 Rechtsform: Einzelunternehmen, Umsatzsteuerbefreit.
+
 Kammerzugehörigkeit: Wirtschaftskammer Wien
