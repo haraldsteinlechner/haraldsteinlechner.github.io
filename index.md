@@ -2,122 +2,51 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# Harald Steinlechner
 
-[Link to another page](./another-page.html).
+- Teaching @ [Design & Implementation of a Rendering Engine @ TU Wien](https://www.cg.tuwien.ac.at/courses/RendEng/VU/2023S), [Functional Programming](https://www.technikum-wien.at/studiengaenge/master-software-engineering/), [Parallel Programming](https://www.technikum-wien.at/studiengaenge/master-software-engineering/).
+- IT Consultant & Software-Development: High-Performance Graphics, GPU Programming, Cloud, Algorithms.
+- Programming Courses: Functional Programming, Efficient Programming
+- Co-Founder @ [Aardworx](https://www.aardworx.at)
+- Researcher @ [VRVis](https://www.vrvis.at)
 
-There should be whitespace between paragraphs.
+### Cutting edge technology for real-world applications
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+With over 15 years of experience in research and industry projects my focus is in providing
+real-world use-cases with cutting edge technology.
 
-# Header 1
+### Courses
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+I provide customized courses for topics in IT. The focus is on:
+ - Functional Programming
+ - Concurrency & Parallel Programming
+ - Performance Optimization
 
-## Header 2
+##### FP courses
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+In 2007 my first functional programming efforts went into the aardvark rendering engine. 
+I repeateatly experienced exceptional productivity boost via functional programming principles.
 
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+Given the concrete background of the course participants, i tailor my course accordingly.
+The basis is:
+ - FP on familiar terrain: Most programmers know Functional Style. In this lecture we familiarize with the paradigm and develop a real-world example which shows the advantages of FP.
+ - Deep Dive - Functional Concepts: In this lecture we look at a broad range of functional concepts such as lazy evaluation and pure functions
+ - Immutable Data: In this data we introduce immutable data, and show their advantages for robustness, testing, parallel execution.
+ - In this lecture we show how large scale systems can be designed functionally. We show functional UI systems and highlight design considerations for modern functional style systems.
 
 
-### Definition lists can be used with HTML syntax.
+## Concurrency & Practical Parallel Programming Courses
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+Most systems face concurrent programming challenge. I show how to tackle them using simple patterns.
+In my parallel programming we discuss parallel programming patterns with focus on usability, abstraction
+and performance characteristics.
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+# Impressum
 
-```
-The final element.
-```
+Harald Steinlechner
+1210 Wien
+Scheffelstraße 7/10/10 | Austria
+Kontakt: haraldsteinlechner@outlook.de
+Dienstleistungen in der automatischen Datenverarbeitung und Informationstechnik
+Rechtsform: Einzelunternehmen, Umsatzsteuerbefreit.
+Kammerzugehörigkeit: Wirtschaftskammer Wien
