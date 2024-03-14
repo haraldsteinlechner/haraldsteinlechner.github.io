@@ -11,7 +11,7 @@ Activities:
 
 ### Cutting edge technology for real-world applications
 
-With over 15 years of experience in applied research and industry projects my focus is on providing cutting-edge technologies and insights to your applications: Consulting & courses, concept, analysis of optimization potential and implementation of tailormade components.
+With over 15 years of experience in applied research and industry projects my focus is on providing cutting-edge technologies and insights to your applications: Consulting & courses, concept, analysis of optimization potential and implementation of tailormade components. My courses can be held online, or in-person in austria / central europe.
 
 ### Courses
 
