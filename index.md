@@ -13,6 +13,8 @@ Activities:
 
 With over 15 years of experience in applied research and industry projects my focus is on providing cutting-edge technologies and insights to your applications: Consulting & courses, concept, analysis of optimization potential and implementation of tailormade components. My courses can be held online, or in-person in austria / central europe.
 
+Contact: haraldsteinlechner@outlook.de
+
 ### Courses
 
 I provide customized courses for algorithms and software technolgy, for example:
